@@ -1,0 +1,38 @@
+id: IE212ABB1
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:16:06.165319'
+last_modified: '2022-06-18T19:16:06.165331'
+parser: null
+source_metadata:
+  title: Sādhana of Vajrabairava in a group of thirteen deities by Tsong kha pa (1357–1419)
+    (dGa ldan block print), colophon excerpt
+  author: ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2022-06-02);
+    revised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:David Jackson (dj)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/1391
+  bases:
+    e420:
+      title: Sādhana of Vajrabairava in a group of thirteen deities by Tsong kha pa
+        (1357–1419) (dGa ldan block print), colophon excerpt
+      order: 1
+      base_file: e420.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
